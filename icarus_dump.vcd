@@ -1,0 +1,53 @@
+$date
+	Tue Jan 16 19:18:27 2024
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1s
+$end
+$scope module testbench $end
+$scope module dut $end
+$var wire 160 ! clkin_data [159:0] $end
+$var wire 96 " in_data [95:0] $end
+$var wire 96 # out_data [95:0] $end
+$var wire 1 $ my_new_signal_0 $end
+$var wire 27 % celloutsig_2z [26:0] $end
+$var wire 9 & celloutsig_0z [8:0] $end
+$var wire 11 ' _4_ [10:0] $end
+$var wire 27 ( _3_ [26:0] $end
+$var wire 27 ) _2_ [26:0] $end
+$var wire 9 * _1_ [8:0] $end
+$var reg 1 + _0_ $end
+$var reg 11 , celloutsig_1z [10:0] $end
+$var reg 32 - probe_data [31:0] $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+$comment Show the parameter values. $end
+$dumpall
+$end
+#0
+$dumpvars
+b0 -
+b0 ,
+0+
+b0 *
+b0 )
+b0 (
+b0 '
+b0 &
+b0 %
+0$
+b0 #
+b0 "
+b0 !
+$end
+#5
+b1010000000000000000000000 (
+b1010000 '
+b1010000 &
+b1010000 *
+b1010000001101011000111110011000011110000110001111100111101000101100000110101011101011101101011 "
+#6
